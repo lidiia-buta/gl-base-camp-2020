@@ -1,2 +1,2 @@
-def test_add_numbers():
+def test_adding_numbers():
     pass
